@@ -7,7 +7,7 @@
    ![inservice](images/inservice2.png)
 6. Utilize o dns do ELB fornecido como saida no terraform para colar no navegador e testar o funcoinamento da Stack
    ![nginx1](images/nginx1.png)
-7. Agora vá até o arquivo `main.tf`(fiap-devops-orquestracao/IaC - Terraform/demos/Count) pelo IDE e altere o valor do count para 3
+7. Agora vá até o arquivo `main.tf`(Hackaton-exercises-terraform/demos/Count) pelo IDE e altere o valor do count para 3
    ![countmod](images/countmod.png)
 8. Execute novamente o comando `terraform apply -auto-approve`
    ![apply2](images/apply2.png)
