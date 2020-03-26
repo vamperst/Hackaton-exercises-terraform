@@ -1,4 +1,4 @@
-1. Execute o comando `cd ~/environment/fiap-devops-orquestracao/IaC\ -\ Terraform/demos/Count/` para entrar no diretório do exercício.
+1. Execute o comando `cd ~/environment/Hackaton-exercises-terraform/demos/Count/` para entrar no diretório do exercício.
 2. Execute o comando `terraform init`
 3. Execute o comando `terraform apply -auto-approve`
 4. Aguarde alguns minutos para que todas as maquinas estejam prontas no ELB. Para chegar até o painel de Load Balancers, entre no serviço EC2 e no menu esquerdo escolha 'Load Balancers'
