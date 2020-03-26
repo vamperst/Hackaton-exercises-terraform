@@ -11,7 +11,7 @@ Utilize o código da demo Count e faça as seguintes mudanças:
 
 
 #### Ajuda
-[How to create modules](https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d)
-[Modules Composition](https://www.terraform.io/docs/modules/composition.html)
-[Creating Modules](https://www.terraform.io/docs/modules/index.html)
-[AWS datasources](https://www.terraform.io/docs/providers/aws/d/instances.html)
+1. [How to create modules](https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d)
+2. [Modules Composition](https://www.terraform.io/docs/modules/composition.html)
+3. [Creating Modules](https://www.terraform.io/docs/modules/index.html)
+4. [AWS datasources](https://www.terraform.io/docs/providers/aws/d/instances.html)
