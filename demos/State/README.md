@@ -6,7 +6,7 @@
 6. Você acabou de criar o bucket que lhe servirá de estado remoto
 7. Saia da pasta com `cd ..`
 8. Entre na pasta 'test' com o comando `cd test`
-9.  Utilizendo o IDE altere o arquivo state.tf que esta no diretório 'fiap-devops-orquestracao/IaC\ -\ Terraform/demos/State/test'. No campo bucket coloque o mesmo nome que utilizou para criar o bucket acima.
+9.  Utilizendo o IDE altere o arquivo state.tf que esta no diretório '/Hackaton-exercises-terraform/demos/State/test'. No campo bucket coloque o mesmo nome que utilizou para criar o bucket acima.
 10. Utilize o comando `terraform init` para sincronizar com o estado remoto
 11. Execute o comando `terraform apply -auto-approve`
 12. Se for agora no bucket do S3 que criou para o exercicio você poderá ver que foi criado um arquivo com o nome teste. Nele constam todas as indormações de tudo que o terraform executou dentro da pasta test. Verifique baixando o arquivo e lendo.
