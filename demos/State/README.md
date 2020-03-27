@@ -1,4 +1,4 @@
-1. Execute o comando `cd ~/environment/fiap-devops-orquestracao/IaC\ -\ Terraform/demos/State/` para entrar na pasta do exercicío.'
+1. Execute o comando `cd ~/environment/Hackaton-exercises-terraform/demos/State/` para entrar na pasta do exercicío.'
 2. Entre na pasta 'S3' com o comando `cd S3`
 3. Execute o comando `terraform init`
 4. Utilizando o IDE altere o aquivo 's3.tf' que esta em 'fiap-devops-orquestracao/IaC\ -\ Terraform/demos/State/S3'. Coloque sua turma e seu rm noo locais indicados. Sem espaços e letras maiúsculas. Isso é necessário pois os nomes de buckets são unicos em toda a AWS não só em sua conta. 
