@@ -1,5 +1,5 @@
 
-1. Execute o comando `cd ~/environment/fiap-devops-orquestracao/IaC\ -\ Terraform/demos/Workspaces/` para entrar na pasta do exercicío.
+1. Execute o comando `cd ~/environment/Hackaton-exercises-terraform/demos/Workspaces/` para entrar na pasta do exercicío.
 2. Utilizando o IDE altere o arquivo state.tf que esta em 'fiap-devops-orquestracao/IaC - Terraform/demos/Workspaces' para adicionar o bucket para estado remoto que criou no ultimo módulo.
 3. Execute o comando `terraform init` para inicializar o terraform. Caso tenha dado erro porque o nome do bucket esta incorreto você terá que apagar a pasta .terrafom com o comando `rm -rf .terraform`, arrumar o nome e executar novamente o init.
 4. Crie um novo workspace com o comando `terraform workspace new dev`
