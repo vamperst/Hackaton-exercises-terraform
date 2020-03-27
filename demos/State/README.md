@@ -1,7 +1,7 @@
 1. Execute o comando `cd ~/environment/Hackaton-exercises-terraform/demos/State/` para entrar na pasta do exercicío.'
 2. Entre na pasta 'S3' com o comando `cd S3`
 3. Execute o comando `terraform init`
-4. Utilizando o IDE altere o aquivo 's3.tf' que esta em 'fiap-devops-orquestracao/IaC\ -\ Terraform/demos/State/S3'. Coloque sua turma e seu rm noo locais indicados. Sem espaços e letras maiúsculas. Isso é necessário pois os nomes de buckets são unicos em toda a AWS não só em sua conta. 
+4. Utilizando o IDE altere o aquivo 's3.tf' que esta em '/Hackaton-exercises-terraform/demos/State/S3'. Coloque sua turma e seu rm noo locais indicados. Sem espaços e sem letras maiúsculas. Isso é necessário pois os nomes de buckets são unicos em toda a AWS não só em sua conta. 
 5. Execute o comando `terraform apply -auto-approve`
 6. Você acabou de criar o bucket que lhe servirá de estado remoto
 7. Saia da pasta com `cd ..`
