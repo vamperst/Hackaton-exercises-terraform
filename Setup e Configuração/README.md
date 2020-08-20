@@ -22,7 +22,7 @@
     ![img/installserverless.png](img/installserverless.png)
 11. Execute o comando `sudo apt  install jq -y` para instalar o software que irá nos ajudar a ler e manipular Jsons no terminal
 12. Execute o comando `git clone https://github.com/vamperst/Hackaton-exercises-terraform.git` para clonar o repositório com os exercicios.
-13. Execute o comando `cd fiap-devops-orquestracao/` para entrar na pasta criada pelo git
+13. Execute o comando `cd Hackaton-exercises-terraform/` para entrar na pasta criada pelo git
 14. Execute o comando `cd Setup\ e\ Configuração/` para entrar na pasta com os scripts de Configuração.
 15. Para instalar o terraform execute o comando `sh installTerraform.sh`
    ![img/terraformInstall](img/terraformInstall.png)
