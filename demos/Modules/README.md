@@ -6,7 +6,7 @@
 6. Após o termino vá ao painel da aws e confira se a VPC, subnets e Rotas foram criadas
    ![vpc](images/vpccreated.png)
    ![sub](images/subnetscreated.png)
-7. Agora vamos subir as Route Tables. Para tal volte uma pasta com o comando `cd ..` e entre em rt-call com o comando `RT-call/`
+7. Agora vamos subir as Route Tables. Para tal volte uma pasta com o comando `cd ..` e entre em rt-call com o comando `cd RT-call/`
 8. Execute o comando `terraform init`
 9.  Execute o comando `terraform plan`
 10. Execute o comando `terraform apply -auto-approve`
