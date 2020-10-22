@@ -22,7 +22,7 @@
 10. Se for ao painel verá que o recurso realmente não esta mais lá
    ![ec22](images/painelec22.png)
 11. Agora saia dessa pasta com o comando `cd ..`
-12. Enter na pasta EC2-ssh com o comando `cd EC2-ssh`
+12. Entre na pasta EC2-ssh com o comando `cd EC2-ssh`
 13. Nesse exemplo voce utilizará a chave fiap-lab que criou. Para iniciar o processo execute o comando `terraform init`.
 14. Este exemplo irá criar maquinas ec2 e acessar as mesmas para instalar Nginx. Para planejar execute o comando `terraform plan`
 15. Antes de executar o apply, abra uma aba no seu navegador e vá para o painel do EC2 na AWS. Basta Clicar em serviços e digitar EC2.
