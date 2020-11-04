@@ -11,3 +11,5 @@
 9.  Execute o comando `terraform plan`
 10. Execute o comando `terraform apply -auto-approve`
 11. Analise o código, olhe os resultados no painel do serviço VPC e faça questionamentos. Foi criada uma VPC com uma subnet publica para cada zona de disponibilidade e as rotas para um internet gateway também criado via código.
+
+

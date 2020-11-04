@@ -19,3 +19,6 @@
 13. Dessa vez foram 2 destruições de maquina e uma alteração no ELB
     ![service1](images/inservice1.png)
 14. Execute o comando `terraform destroy -auto-approve`
+
+### Exercicio
+Caso deseje fazer um exercicio prático para ajudar a fixar o conteudo faça o proposto na seguinte página: [Exercício](../../exercicios/count/README.md)

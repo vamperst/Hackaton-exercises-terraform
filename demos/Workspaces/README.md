@@ -12,3 +12,7 @@
 11. No workspace 'prod' execute o comando `terraform destroy -auto-approve`. 
 12. Verifique o arquivo txt do prod não esta mais na pasta mas o dev esta intacto. 
 13. Olhe no arquivo referente ao ambiente prod no bucket do S3, ao ler o mesmo irá notar que esta vazio. 
+
+
+### Exercicio
+Caso deseje fazer um exercicio prático para ajudar a fixar o conteudo faça o proposto na seguinte página: [Exercício](../../exercicios/State-e-workspace/README.md)
